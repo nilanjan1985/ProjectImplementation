@@ -1,8 +1,8 @@
-==> 2022-06-18 10:55:55 <==
+==> 2022-06-23 15:19:55 <==
 # cmd: C:\Users\000K1G744\Anaconda3\Scripts\conda-script.py create -p venv python==3.7 -y
 # conda version: 4.11.0
 +defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
-+defaults/win-64::certifi-2022.5.18.1-py37haa95532_0
++defaults/win-64::certifi-2022.6.15-py37haa95532_0
 +defaults/win-64::pip-21.2.4-py37haa95532_0
 +defaults/win-64::python-3.7.0-hea74fb7_0
 +defaults/win-64::setuptools-61.2.0-py37haa95532_0
